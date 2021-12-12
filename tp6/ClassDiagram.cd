@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="List">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAIgCAAAAICAxAEAAAAAAAEAAAACIAACAJAUCko=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Note">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAEAgAgAiAAQAEEBAA=</HashCode>
+      <FileName>Note.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Element">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
